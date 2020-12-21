@@ -5,3 +5,10 @@ Detecting traffic lights and the distance to them on runtime within given video 
 2. Generating and training CNN (using tensorflow).
 3. Estimating the distance to each detected traffic light from the camera picturing the images of interest, involving geometric and linear algebra calculations.
 4. Integrating all previous parts into a functional and intuitive SW product.   
+
+Libraries/Technologies Used
+python 3.7
+numpy
+matplotlib
+jupyterlab
+tensorflow
